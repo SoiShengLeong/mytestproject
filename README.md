@@ -1,2 +1,4 @@
 # mytestproject
-this is my school project
+This my school project includes:-
+
+test-prime: a program that finds 100th prime number 
